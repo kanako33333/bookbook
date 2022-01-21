@@ -1,0 +1,37 @@
+#mv{
+    background-color: #BFD8D2;
+}
+
+#mv h1,
+#mv p:first-of-type{
+    color: #DF744A;
+}
+
+#point1{
+    background-color: #FEDCD2;
+}
+#point2{
+    background-color: #DF744A;
+}
+#point3{
+    background-color: #DCB239;
+}
+#point4{
+    background-color: #F5F5F5;
+}
+
+#end{
+    background-color: #EEE0C5;
+}
+
+#end p{
+    color: #794B39;
+}
+
+#footer{
+    background-color: #3F4349;
+}
+
+#footer a{
+    text-decoration: none;
+}
